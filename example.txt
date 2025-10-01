@@ -1,1 +1,4 @@
 Created example.txt
+Initialized git
+"Initial commit" DONE
+Trying to push into the remote repo after commiting these changes in the local repo.
